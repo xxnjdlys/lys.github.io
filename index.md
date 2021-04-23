@@ -1,42 +1,51 @@
 
-## Welcome to Arthur Yu's GitHub Pages 
-![lys](https://github.com/xxnjdlys/xxnjdlys.github.io/blob/master/res/wk.png?raw=true)
+### Welcome to Arthur Yu's GitHub Pages 
 
-#### [Documents](https://github.com/xxnjdlys/xxnjdlys.github.io/blob/master/docs/index.md)
-#### [Todo](https://github.com/xxnjdlys/xxnjdlys.github.io/blob/master/todo/index.md)
+<img src="https://github.com/xxnjdlys/xxnjdlys.github.io/blob/master/res/wk.png?raw=true" type="withfix"/>
+<!-- <table style="margin-left: auto; margin-right: auto">
+			<tr>
+				<td>
+					<img src="https://github.com/xxnjdlys/xxnjdlys.github.io/blob/master/res/wk.png?raw=true"
+					style="
+					width: 24px;
+					height: 24px;
+					border-radius: 2px;" />
+				</td>
+				<td>
+					<p>
+						Arthur
+					</p>
+				</td>
+			</tr>
+		</table> -->
 
-You can use the [editor on GitHub](https://github.com/xxnjdlys/lys.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+-----
 
-### Markdown
+## [PHP](https://www.php.net/manual/zh/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### [Laravel](https://learnku.com/docs/laravel/8.x)
 
-```markdown
-Syntax highlighted code block
+#### [Lumen](https://learnku.com/docs/lumen/6.x)
 
-# Header 1
-## Header 2
-### Header 3
+-----
 
-- Bulleted
-- List
+## [Android](https://developer.android.com/docs) 
 
-1. Numbered
-2. List
+-----
 
-**Bold** and _Italic_ and `Code` text
+## [Python](http://www.pythondoc.com/pythontutorial3/index.html)
 
-[Link](url) and ![Image](src)
-```
+-----
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## JavaScript
 
-### Jekyll Themes
+-----
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xxnjdlys/lys.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## MySql
 
-### Support or Contact
+## FAQ
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## [Repositories](https://github.com/xxnjdlys/xxnjdlys.github.io/blob/master/docs/index.md)
+## [Todo](https://github.com/xxnjdlys/xxnjdlys.github.io/blob/master/todo/index.md)
+
